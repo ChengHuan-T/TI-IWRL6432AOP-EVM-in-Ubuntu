@@ -1,0 +1,1 @@
+Note: The .appimage files are provided for evaluation purposes and originate from the TI mmWave SDK.
