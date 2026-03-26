@@ -3,6 +3,8 @@ This repo is written for using the TI IWRL6432AOP EVm in Ubuntu 24.04 environmen
 
 AOP (Antenna of Package) ; EVM (Evalution Module)
 
+## Read the DEPENDENCIES first please.
+
 ## Flash
 Switch the board into Flash Mode first.
 ![Flash Mode](./assets/flashmode.png)
