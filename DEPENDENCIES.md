@@ -11,7 +11,7 @@ To ensure compatibility with this project, it is recommended to install the foll
 | **TI CLANG Compiler** | 5.1.0.LTS | [LINK](https://www.ti.com/tool/download/ARM-CGT-CLANG/) | Recommand install at `${HOME}/ti` |
 | **Code Composer Studio** | 20.5.0 | [LINK](https://www.ti.com/tool/CCSTUDIO) | Click **mmWave Sensors** |
 | **UniFlash** | 9.4.1 | [LINK](https://www.ti.com/tool/UNIFLASH) | Using for flashing `.appimage` |
-| **Radar Toolbox** | 4.00.00.05 | [LINK](https://dev.ti.com/tirex/explore/node?isTheia=false&node=A__AEIJm0rwIeU.2P1OBWwlaA__radar_toolbox__1AslXXD__LATEST) | Recommand install at `${HOME}/ti/Repo/` |
+| **Radar Toolbox** | 4.00.00.05 | [LINK](https://dev.ti.com/tirex/explore/node?isTheia=false&node=A__AEIJm0rwIeU.2P1OBWwlaA__radar_toolbox__1AslXXD__LATEST) | Recommand download at `${HOME}/ti/Repo/` |
 
 ---
 
